@@ -1,6 +1,6 @@
 spring:
-  application:
-    name: idat-estudiante
+#  application:
+#    name: idat-estudiante
 
 ######### H2SQL #################
 # h2:
